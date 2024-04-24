@@ -15,7 +15,7 @@ import Link from "next/link";
 const Sidebar = () => {
   const pathname = usePathname()
   return (
-    <div className="">
+    <div className="min-w-[264px]">
       <div className="p-4">
         <div className="px-5 pt-1 flex justify-start items-center text-lg font-semibold">
           <Link href="/" className="" >

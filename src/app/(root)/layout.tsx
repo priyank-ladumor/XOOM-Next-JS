@@ -19,3 +19,4 @@ export default function HomeLayout({ children }: { children: ReactNode }) {
         </div>
     )
 }
+ 

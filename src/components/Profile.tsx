@@ -13,7 +13,7 @@ import React from 'react'
 const Profile = () => {
     return (
         <div>
-            <DropdownMenu >
+            {/* <DropdownMenu >
                 <DropdownMenuTrigger className="rounded-full text-white" >
                     <Image src="https://res.cloudinary.com/dstojqsjz/image/upload/v1711622291/kvpobyuczbx2l8x1goo2.jpg" className="rounded-full" alt="profile-pic" width={30} height={30} />
                 </DropdownMenuTrigger>
@@ -25,8 +25,7 @@ const Profile = () => {
                     <DropdownMenuItem>Team</DropdownMenuItem>
                     <DropdownMenuItem>Subscription</DropdownMenuItem>
                 </DropdownMenuContent>
-            </DropdownMenu>
-
+            </DropdownMenu> */}
         </div>
     )
 }
